@@ -2,7 +2,7 @@
 ![logo](https://github.com/skashadulhossain/skashadulhossain/blob/main/git-banner.png)
 <h1 align="center">Hi 👋, I'm Sk Ashadul Hossain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="codeing-img" width="400" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
+<img align="right" alt="codeing-img" width="200" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skashadulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="skashadulhossain" /> </p>
 
